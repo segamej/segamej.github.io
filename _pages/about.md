@@ -26,6 +26,17 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+I'm a final year Ph.D. student at the University of Maryland (UMD), advised by Prof. Michelle Bensi. At UMD, I'm affiliated with the Department of Civil & Environmental Engineering, the Center for Disaster Resilience, and the Latin American and Caribbean Studies Center. I'm currently serving as the student representative on the board of the Central America Section of the Latin American Studies Association.
+
+I'm originally from Guatemala, where I did my civil engineering undergrad studies at Universidad de San Carlos de Guatemala. I came to the US with the Fulbright Foreign Student Program to do my master's at UMD, where I also continued my doctoral studies (funded by a University of Maryland faculty start-up). 
+
+I have experience working in Guatemalan semi-urban municipal governments and in the US Federal government, where I worked advancing Environmental Justice regulations during my NOAA Sea Grant Knauss Fellowship in 2022.
+
+My research focuses on exploring the relationships between complex infrastructure systems and society, particularly in multihazard-prone locations. I am currently studying natural hazards and disaster information systems, as well as emergency communication during sequential storms in Guatemala. In my research, I use quantitative and qualitative methods under an environmental justice lens. I aspire that my work serves to transform human and technological decision-making mechanisms that are creating and expanding social disparities. 
+
+Feel free to contact me via email at 
+
+garcia06 [at] umd [dot] edu
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
