@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Frasesita o agregar despues algo
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Headshot_SergioGarcia.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Department of Civil & Environmental Engineeering</p>
