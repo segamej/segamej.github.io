@@ -25,7 +25,7 @@ layout: default
         <p class="post-description">{{ page.description }}</p>
       {% endif %}
     </header>
-
+{% comment %}
     <article>
       <div class="cv">
         {% for entry in site.data.cv %}
@@ -124,4 +124,5 @@ layout: default
       </div>
     </article>
   </div>
+{% endcomment %}
 {% endunless %}
