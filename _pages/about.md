@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: # <a href='#'>Affiliations</a>. Frasesita o agregar despues algo
+subtitle: <!-- <a href='#'>Affiliations</a>. Frasesita o agregar despues algo -->
 
 profile:
   align: right
