@@ -1,4 +1,3 @@
-{% raw %}
 {
   "basics": {
     "name": "Albert Einstein",
@@ -199,5 +198,3 @@
     }
   ]
 }
--->
-{% endraw %}
