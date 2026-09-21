@@ -26,6 +26,21 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+Soy un ingeniero civil y ambiental con formación en investigación científica. Mis intereses de investigación y de impacto se centran en la gente y en la convergencia entre sus vidas, su entorno y los sistemas de infraestructura que las atraviesan. 
+
+La ciencia ha desarrollado el conocimiento suficiente para poder garantizar agua, tierra y aire limpios; para que los impactos negativos de los desastres no sean tan desequilibradamente desiguales; y para entender el riesgo significativo para la vida y el ambiente que representan las industrias extractivas cuando sus actividades rebasan límites sociales, éticos y legales. Sin embargo, aún existen vacíos grandes de conocimiento que se agigantan en lugares que han sido históricamente excluidos y subestudiados como es el caso de Guatemala. 
+
+Tengo un doctorado y una maestría en Ingeniería Civil de la Universidad de Maryland. Me especialicé en reducción de riesgos ante desastres, recursos hídricos y en estudios latinoamericanos y caribeños. Mi investigación doctoral se centró en el estudio y mejora de los sistemas de alerta para ciclones tropicales en Guatemala y Estados Unidos y en la observación de diferencias en los escritura estandarizada de alertas en Inglés y Español.
+
+Durante mi doctorado también me especialicé en justicia ambiental y en su inclusión en los análisis de impacto ambiental en las actividades de desarrollo energético del Gobierno Federal de Estados Unidos. También dirigí una organización no gubernamental enfocada en la conservación de las cuencas de la Bahía de Chesapeake —el estuario más grande de EEUU— mediante programas de educación dirigidos a obreros de la construcción y de la jardinería.
+
+Soy egresado de la Universidad de San Carlos de Guatemala. En el pasado fui beneficiario de las becas Fulbright y NOAA Knauss Fellowship, entre otras.
+
+También soy activista y músico. Desde estos espacios trabajo activamente por un mundo mejor y más justo.
+
+
+<!-- 
 I'm a final-year Ph.D. student at the University of Maryland (UMD), advised by Prof. Michelle Bensi. At UMD, I'm affiliated with the Department of Civil & Environmental Engineering, the Center for Disaster Resilience, the Center for Risk and Reliability, and the Latin American and Caribbean Studies Center. I'm currently serving as the student representative on the board of the Central America Section of the Latin American Studies Association.
 
 I'm originally from Guatemala, where I did my civil engineering undergrad studies at Universidad de San Carlos de Guatemala. I came to the US with the Fulbright Foreign Student Program to do my master's at UMD, where I also continued my doctoral studies (funded by a University of Maryland faculty start-up). 
