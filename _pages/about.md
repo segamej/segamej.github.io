@@ -9,9 +9,8 @@ profile:
   image: headshot_senacyt.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Department of Civil & Environmental Engineeering</p>
-    <p>University of Maryland</p>
-    <p>College Park, MD 20740</p>
+    <p>Independent consultant and researcher</p>
+    <p>Mixco, Guatemala</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
