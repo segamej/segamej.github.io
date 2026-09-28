@@ -9,7 +9,7 @@ profile:
   image: headshot_senacyt.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Independent consultant and researcher</p>
+    <p>Investigador independiente y consultor</p>
     <p>Mixco, Guatemala</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -28,7 +28,7 @@ latest_posts:
 
 Soy un ingeniero civil y ambiental con formación en investigación científica. Mis intereses de investigación y de impacto se centran en las personas y en la convergencia entre sus vidas, su entorno y los sistemas de infraestructura que las atraviesan. 
 
-Tengo un doctorado y una maestría en Ingeniería Civil de la Universidad de Maryland. Me especialicé en la reducción de riesgos ante desastres, en la gestión integrada de recursos hídricos y en estudios en Latinoamérica y el Caribe. Mi investigación doctoral se centró en el estudio y la mejora de los sistemas de alerta para ciclones tropicales en Guatemala y Estados Unidos, así como en la observación de diferencias en la redacción estandarizada de las alertas en inglés y español.
+Tengo un doctorado y una maestría en Ingeniería Civil de la Universidad de Maryland. Me especialicé en la reducción del riesgo de desastres, la gestión integrada de recursos hídricos y en estudios en Latinoamérica y el Caribe. Mi investigación doctoral se centró en el estudio y la mejora de los sistemas de alerta de ciclones tropicales en Guatemala y Estados Unidos, así como en el análisis de las diferencias en la redacción estandarizada de las alertas en inglés y en español.
 
 Durante mi doctorado, también me especialicé en justicia ambiental y en su incorporación a los análisis de impacto ambiental de las actividades de desarrollo energético del Gobierno Federal de Estados Unidos. También dirigí una organización no gubernamental enfocada en la conservación de las cuencas de la Bahía de Chesapeake —el estuario más grande de EEUU— mediante programas de educación dirigidos a obreros de la construcción y de la jardinería.
 
