@@ -26,15 +26,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Soy un ingeniero civil y ambiental con formación en investigación científica. Mis intereses de investigación y de impacto se centran en las personas y en la convergencia entre sus vidas, su entorno y los sistemas de infraestructura que las atraviesan. 
+Soy un ingeniero civil y ambiental con formación en investigación científica. Mis intereses de investigación y transformación se centran en las personas y en la convergencia entre sus vidas, su entorno y los sistemas de infraestructura que las atraviesan. 
 
 Tengo un doctorado y una maestría en Ingeniería Civil de la Universidad de Maryland. Me especialicé en la reducción del riesgo de desastres, la gestión integrada de recursos hídricos y en estudios en Latinoamérica y el Caribe. Mi investigación doctoral se centró en el estudio y la mejora de los sistemas de alerta de ciclones tropicales en Guatemala y Estados Unidos, así como en el análisis de las diferencias en la redacción estandarizada de las alertas en inglés y en español.
 
-Durante mi doctorado, también me especialicé en justicia ambiental y en su incorporación a los análisis de impacto ambiental de las actividades de desarrollo energético del Gobierno Federal de Estados Unidos. También dirigí una organización no gubernamental enfocada en la conservación de las cuencas de la Bahía de Chesapeake —el estuario más grande de EEUU— mediante programas de educación dirigidos a obreros de la construcción y de la jardinería.
+Durante mi doctorado, me especialicé en justicia ambiental y en su incorporación a los análisis de impacto ambiental de las actividades de desarrollo de energía eólica marina del Gobierno Federal de Estados Unidos. También dirigí una organización no gubernamental enfocada en la conservación de las cuencas de la Bahía de Chesapeake —el estuario más grande de EEUU— mediante programas de educación dirigidos a obreros de la construcción y de la jardinería.
 
 En el pasado, fui beneficiario de las becas Fulbright y de la NOAA Knauss Fellowship, entre otras. Soy egresado de la Universidad de San Carlos de Guatemala. 
 
-Además de ser investigador, soy activista y músico. Desde estos espacios trabajo activamente por un mundo mejor y más justo.
+Actualmente trabajo como investigador independiente y consultor.
 
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder # Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. # Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
